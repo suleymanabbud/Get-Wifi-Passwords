@@ -1,0 +1,56 @@
+([('test2.exe',
+   'C:\\Users\\SPECIAL TEK\\Desktop\\3.sınıf\\bilgi sistmeleri '
+   'pdfler\\ödevler\\wifiPass\\build\\test2\\test2.exe',
+   'EXECUTABLE'),
+  ('python39.dll',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\python39.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('select',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\SPECIAL TEK\\Desktop\\3.sınıf\\bilgi sistmeleri '
+   'pdfler\\ödevler\\wifiPass\\build\\test2\\base_library.zip',
+   'DATA')],)

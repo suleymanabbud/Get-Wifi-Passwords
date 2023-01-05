@@ -1,0 +1,105 @@
+('C:\\Users\\SPECIAL TEK\\Desktop\\3.sınıf\\bilgi sistmeleri '
+ 'pdfler\\ödevler\\wifiPass\\build\\test2\\test2.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Users\\SPECIAL TEK\\Desktop\\3.sınıf\\bilgi sistmeleri '
+   'pdfler\\ödevler\\wifiPass\\build\\test2\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\SPECIAL TEK\\Desktop\\3.sınıf\\bilgi sistmeleri '
+   'pdfler\\ödevler\\wifiPass\\build\\test2\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\SPECIAL TEK\\Desktop\\3.sınıf\\bilgi sistmeleri '
+   'pdfler\\ödevler\\wifiPass\\build\\test2\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\SPECIAL TEK\\Desktop\\3.sınıf\\bilgi sistmeleri '
+   'pdfler\\ödevler\\wifiPass\\build\\test2\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\SPECIAL TEK\\Desktop\\3.sınıf\\bilgi sistmeleri '
+   'pdfler\\ödevler\\wifiPass\\build\\test2\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\SPECIAL TEK\\Desktop\\3.sınıf\\bilgi sistmeleri '
+   'pdfler\\ödevler\\wifiPass\\build\\test2\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Users\\SPECIAL '
+   'TEK\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('test2',
+   'C:\\Users\\SPECIAL TEK\\Desktop\\3.sınıf\\bilgi sistmeleri '
+   'pdfler\\ödevler\\wifiPass\\test2.py',
+   'PYSOURCE'),
+  ('python39.dll',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\python39.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('select',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\special '
+   'tek\\appdata\\local\\programs\\python\\python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\SPECIAL TEK\\Desktop\\3.sınıf\\bilgi sistmeleri '
+   'pdfler\\ödevler\\wifiPass\\build\\test2\\base_library.zip',
+   'DATA')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
